@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+
+@theme {
+
+  /* 
+  #Colores 
+  --color-primary: #FA9A84; */
+
+}
+
+/* @utility contenedor {
+  @apply px-8 max-w-7xl mx-auto;
+} */
